@@ -1,2 +1,5 @@
-
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
 /* Your CSS Code here. */
